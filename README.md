@@ -10,3 +10,8 @@ npm install\
 npm start
 
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+The image below shows the homepage for the NewsWave.
+
+
+![HomePage](https://github.com/deshharshita/NewsWave/assets/64245643/ba17290d-27e6-44c9-bdde-3312f0c9d38d)
